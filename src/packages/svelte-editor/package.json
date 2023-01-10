@@ -1,0 +1,17 @@
+{
+    "name": "@anthony809/svelte-editor",
+    "version": "0.0.3",
+    "main": "./Editor.svelte",
+    "type": "module",
+    "description": "A Svelte editor powered by EditorJS.",
+    "keywords": [
+        "svelte",
+        "editor",
+        "editorjs"
+    ],
+    "author": "anthony809",
+    "license": "ISC",
+    "dependencies": {
+        "highlight.js": "^11.7.0"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "@anthony809/svelte-head",
+    "version": "0.0.5",
+    "main": "./SvelteHead.svelte",
+    "type": "module",
+    "repository": {
+        "url": "https://github.com/sveltecms/cms"
+    },
+    "homepage": "https://sveltecms.dev",
+    "description": "Svelte head is a component to easily add and update svelte route pages's meta information.",
+    "keywords": [
+        "svelte",
+        "sveltekit",
+        "cms"
+    ],
+    "author": "anthony809",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.1.0",
+        "inquirer": "^9.1.4",
+        "mongodb": "^4.12.0"
+    }
+}

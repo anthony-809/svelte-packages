@@ -1,0 +1,21 @@
+{
+    "name": "@anthony809/svelte-toasts",
+    "version": "0.0.1",
+    "main": "./Toasts.svelte",
+    "type": "module",
+    "description": "Svelte Toasts simple component to add PopUp massage on your site.",
+    "keywords": [
+        "svelte",
+        "sveltekit",
+        "toasts",
+        "toast",
+        "popUp"
+    ],
+    "author": "anthony809",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.1.0",
+        "inquirer": "^9.1.4",
+        "mongodb": "^4.12.0"
+    }
+}
