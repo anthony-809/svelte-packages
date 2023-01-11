@@ -1,6 +1,6 @@
 {
     "name": "@anthony809/svelte-head",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "main": "./SvelteHead.svelte",
     "type": "module",
     "repository": {
@@ -14,10 +14,5 @@
         "cms"
     ],
     "author": "anthony809",
-    "license": "ISC",
-    "dependencies": {
-        "bcrypt": "^5.1.0",
-        "inquirer": "^9.1.4",
-        "mongodb": "^4.12.0"
-    }
+    "license": "ISC"
 }

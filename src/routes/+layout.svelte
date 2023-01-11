@@ -9,12 +9,14 @@
         <Link href="/" text="Home"/>
         <Link href="/local/editorjs" text="EditorJS"/>
         <Link href="/local/toasts" text="Toasts"/>
+        <Link href="/local/draggable" text="Draggable"/>
     </div>
     <h2>NPM TEST</h2>
     <div class="links">
         <Link href="/" text="Home"/>
         <Link href="/npm/editorjs" text="EditorJS"/>
         <Link href="/npm/toasts" text="Toasts"/>
+        <Link href="/npm/draggable" text="Draggable"/>
     </div>
     <slot />
 </div>

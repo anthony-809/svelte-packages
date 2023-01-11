@@ -1,0 +1,14 @@
+{
+    "name": "@anthony809/svelte-draggable",
+    "version": "0.0.1",
+    "main": "./Draggable.svelte",
+    "type": "module",
+    "description": "A Svelte Draggable components.",
+    "keywords": [
+        "svelte",
+        "sveltekit",
+        "draggable"
+    ],
+    "author": "anthony809",
+    "license": "ISC"
+}
