@@ -53,7 +53,9 @@
         transform: scale(1.05);
     }
     .child {
-        pointer-events: none;
         display: contents;
+    }
+    :global(.draggableChild .child *:not(.exclude)){
+        pointer-events: none;
     }
 </style>
