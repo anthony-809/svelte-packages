@@ -1,6 +1,6 @@
 {
     "name": "@anthony809/svelte-draggable",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main": "./Draggable.svelte",
     "type": "module",
     "description": "A Svelte Draggable components.",

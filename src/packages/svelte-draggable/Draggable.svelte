@@ -11,5 +11,7 @@
     .draggable{
         display: flex;
         flex-wrap: wrap;
+        background-color: var(--bg);
+        border-radius: var(--br);
     }
 </style>
