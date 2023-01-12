@@ -9,4 +9,8 @@ export default writable({
     bg:"rgba(0,0,0,.1)",
     /** Margin for item div */
     margin:"10px",
+    /** Remove btn bg */
+    rmBg:"rgba(0,0,0,.5)",
+    /** Remove btn color */
+    rmColor:"rgb(233, 65, 65)",
 })

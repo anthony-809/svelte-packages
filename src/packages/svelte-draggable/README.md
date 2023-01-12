@@ -22,10 +22,10 @@ Place component ```DraggableChild``` inside the main component ```Draggable```
 </Draggable>
 ```
 
-The ```DraggableChild``` takes the following props: ``id`` and ```on:dropEnded```
+The ```DraggableChild``` takes the following props: ``id``,```on:dropEnded``` and ```on:remove```
 ``id`` is use to know what item we are replacing with
 ```on:dropEnded``` A custom event that run when ever a item is dropped inside another item / ```DraggableChild```
-Bind data from ```Editor``` to always have the latest data
+```on:dropEnded``` A custom event that run when click remove icon
 
 ### Example on how to use
 
