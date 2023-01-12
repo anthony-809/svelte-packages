@@ -45,9 +45,6 @@
         border-radius: var(--br);
         overflow: hidden;
         cursor: pointer;
-        display: flex;
-        align-items: center;
-        justify-content: center;
         background-color: var(--bg);
         transition: opacity ease 0.3s , transform ease-in-out 0.3s;
     }
