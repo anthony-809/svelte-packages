@@ -68,6 +68,7 @@
         transition: opacity 0.3s ease-in-out;
         opacity: 0%;
         pointer-events: none;
+        z-index: 10;
     }
     .draggableChild:hover > .remove{
         opacity: 100%;
