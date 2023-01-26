@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "sveltefy",
+  "version": "0.0.3",
+  "description": "Shopify GraphQl for svelte and svelte kit.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ "Svelte","Shopify","GraphQl" ],
+  "author": "anthony809",
+  "license": "ISC"
+}

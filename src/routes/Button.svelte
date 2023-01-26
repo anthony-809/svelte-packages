@@ -6,11 +6,12 @@
 
 <style>
     button{
+        width: fit-content;
         border: none;
         cursor: pointer;
         text-decoration: none;
-        padding: 5px 10px;
-        border-radius: 5px;
+        padding: 10px 20px;
+        border-radius: 50px;
         background-color: var(--buttonBg);
         color: var(--buttonColor);
         font-size: 14px;

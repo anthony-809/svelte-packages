@@ -29,24 +29,7 @@
 <Draggable >
     {#each images as image,index }
         <DraggableChild on:dropEnded={handleDrop} id={index}>
-            <div class="test">
-                <div class="icon exclude" on:click={()=>alert("HELLO")} on:keypress={()=>alert("HELLO")}></div>
-                <div class="icon2 exclude" on:click={()=>alert("HELLO")} on:keypress={()=>alert("HELLO")}></div>
-            </div>
             <Image src={image.src}/>
         </DraggableChild>
     {/each}
 </Draggable>
-
-
-<style>
-    .icon,.icon2{
-        cursor: pointer;
-        width: 40px;
-        height: 40px;
-        background-color: red;
-    }
-    .icon2{
-        background-color: purple;
-    }
-</style>
